@@ -35,8 +35,5 @@
 		"vite": "^4.4.2",
 		"vitest": "^0.33.0"
 	},
-	"type": "module",
-	"dependencies": {
-		"theme-change": "^2.5.0"
-	}
+	"type": "module"
 }

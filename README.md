@@ -1,6 +1,13 @@
-# create-svelte
+# SvelteKit + tailwindcss + DaisyUI template
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+I always end up running through the same steps when starting a new sveltekit project. Now I can use this template
+
+I use:
+
+* SvelteKit
+* TailwindCSS
+* DaisyUI
+* @tailwindcss/typography
 
 ## Creating a project
 
